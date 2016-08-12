@@ -1,4 +1,4 @@
-# libradtran
+# libRadtran
 ----
 N.C.Steiner, 2016
 
